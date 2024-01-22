@@ -1,4 +1,4 @@
-# ist-portfolio-Etha
+# ist-portfolio-Ethan
 
 [Link to my portfolio](https://github.com/EthanWhit/ist-portfolio-Ethan)
 
